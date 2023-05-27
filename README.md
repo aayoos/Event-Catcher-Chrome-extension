@@ -1,4 +1,4 @@
-# Event-Catcher-Chrome-extension
+# Event Catcher Chrome Extension
 Created a chrome extension using HTML, CSS and JavaScript that can enlist the websites visited by the user.
 Consists of 3 operations namely Save (current) tab, Save (any required URL), and Delete All listed URLs at once
 Used the addEventListener command for operating the first 2 buttons on single click and Delete All button on double click
