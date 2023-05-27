@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Event Catcher",
+    "action": {
+        "default_popup": "chrome_ext.html",
+        "default_icon": "equals.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
